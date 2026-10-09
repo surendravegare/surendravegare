@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JanhaviDimble&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SurendraVegare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanhaviDimble&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
